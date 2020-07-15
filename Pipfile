@@ -9,6 +9,7 @@ twine = "*"
 [packages]
 pandas = "*"
 twine = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
