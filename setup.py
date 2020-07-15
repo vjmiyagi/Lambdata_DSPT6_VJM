@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Lambdata_DSPT6_VJM", # 
-    version="0.0.1",
+    version="0.0.2,
     author="VJ Miyagi",
     author_email="velmamiyagi@gmail.com",
     description="A small example package",
